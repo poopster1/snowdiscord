@@ -12,7 +12,7 @@ client.once('ready', () => {
     console.log('Client ready');
   });
 
-client.login(KEY);
+client.login(f6f8ce3c1b348f3861a39a2b488d40621df6e0c129997fe0e5046ed20ceb6346);
 var myVar = setInterval(myTimer, 60000);
 
 async function myTimer(){
